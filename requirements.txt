@@ -1,0 +1,19 @@
+streamlit
+pandas
+numpy
+plotly
+scipy
+scikit-learn
+
+
+# ---------------------------
+# 財報模型
+
+  Survival months
+
+  Default probability
+
+  Radar chart
+
+  Gauge
+# ---------------------------
